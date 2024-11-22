@@ -1,6 +1,6 @@
 # <p align="center"> <b> Curso: Pesquisa Operacional - Entendendo as bases dos métodos de otimização </b> 
 
-####  📓 <a href="link_do_notebook">Notebook</a> desenvolvido durante o curso 
+####  📓 <a href="https://github.com/diassmatheus/PesquisaOperacionalBasesMetodosOtimizacao/blob/main/Otimiza%C3%A7%C3%A3o_fundamentos_pesquisa_operacional_completo.ipynb">Notebook</a> desenvolvido durante o curso 
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/pesquisa-operacional-bases-metodos-otimizacao">Alura</a> 
 ####  ⏰ Duração: 10h 
 ####  📜 Conteúdo:
